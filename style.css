@@ -1,8 +1,8 @@
 :root {
-    --bg: #1e1e2e;
-    --fg: #c6d0f5;
-    --second-bg: #11111b;
-    --blue: #8caaee;
+    --bg: #202124;
+    --fg: #F0DA50;
+    --second-bg: #1B1B19;
+    --blue: #bfa41f;
     
 }
 
@@ -38,15 +38,10 @@ input {
     margin-left: auto;
     margin-right: auto;
     width: 70%;
-} input:focus {
+}
+input:focus {
     border-color: var(--blue);
     outline: none;
-}
-
-#weather {
-    position: absolute;
-    top: 15px;
-    right: 15px;
 }
 
 a {
@@ -55,7 +50,7 @@ a {
     display: block;
     margin-right: 33%;
     display: inline-block;
-    padding: 2px 0px;
+    padding: 2px 15px;
 }
 
 a::before {

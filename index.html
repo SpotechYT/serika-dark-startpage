@@ -7,47 +7,34 @@
 </head>
 <body onload="main()">
     <div class="content">
-        <div id="time">
-            
-        </div>
-        <div id="date">
-
-        </div>
+        <div id="time"></div>
+        <div id="date"></div>
         <div class="search">
-            <form action="https://searx.be/search">
-                <input type="text" name="q" autocomplete="off" placeholder="Searx...">
+            <form action="https://google.com/search" method="get" class="searchbar" autocomplete="off">
+                <input type="text" name="q" autocomplete="off" placeholder="Search..." autofocus>
             </form>
         </div>
         <div id="links">
             <div class="list">
                 <ul>
-                    <li>~/general</li>
-                    <li><a href="https://www.youtube.com">youtube</a></li>
-                    <li><a href="https://www.reddit.com">reddit</a></li>
+                    <li>~/General</li>
                     <li><a href="https://www.github.com">github</a></li>
+                    <li><a href="https://libreddit.domain.glass">libreddit</a></li>
+                    <li><a href="https://www.youtube.com">youtube</a></li>
+                    
+                    
                 </ul>
             </div>
             <div class="list">
                 <ul>
-                    <li>~/games</li>
-                    <li><a href="https://protondb.com/">protonDB</a></li>
-                    <li><a href="https://steampowered.com">steam</a></li>
-                    <li><a href="https://chess.com">chess</a></li>
-                    <li><a href="http://monkeytype.com">monkeyType</a></li>
+                    <li>~/Music</li>
+                    <li><a href="https://open.spotify.com/playlist/0pGdGpMm84h2Jl6Q1KmTMn">Lofi</a></li>
+                    <li><a href="https://open.spotify.com/playlist/43c6f10ziO5EK9elV2sJTA">English</a></li>
+                    <li><a href="https://open.spotify.com/playlist/7tKmj5rA0tqLWbjpqPQ8R2">Chill</a></li>
+                    <li><a href="https://open.spotify.com/playlist/57U15LDLo9ybyyVXbvG0Fh">Arabic</a></li>
                 </ul>
             </div>
-            <div class="list">
-                <ul>
-                    <li>~/libre</li>
-                    <li><a id="re">libReddit</a></li>
-                    <li><a id="yt">invidious</a></li>
-                    <li><a id="ni">nitter</a></li>
-                    <li><a id="st">simplytranslate</a></li>
-                </ul>
-            </div>
-
         </div>
     </div>
-    <div id="weather"></div>
 </body>
 </html>
