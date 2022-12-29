@@ -1,8 +1,18 @@
+/*
+Colors
+
+Yellow:    #e2b714
+
+DarkGrey:  #2c2e31
+MidGrey:   #323437
+LightGrey: #646669
+*/
+
 :root {
-    --bg: #202124;
-    --fg: #F0DA50;
-    --second-bg: #1B1B19;
-    --blue: #bfa41f;
+    --bg: #2c2e31;
+    --fg: #e2b714;
+    --second-bg: #323437;
+    --blue: #e2b714;
     
 }
 
