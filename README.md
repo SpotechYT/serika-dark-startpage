@@ -1,6 +1,6 @@
 <p align="center"><img src="https://raw.githubusercontent.com/SpotechYT/Serika-Dark/main/Logo.jpg" height="200"></p>
 <h1 align="center">Serika Dark Start Page</h1>
-<p align="center">Start Page bassed on my Serika Dark Theme</p>
+<p align="center">Start Page bassed on Serika Dark</p>
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
