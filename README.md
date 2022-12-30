@@ -4,9 +4,7 @@
 
 Have any suggestions? Want me to port this theme elsewhere? email me: hanielmikhaiel@gmail.com
 
-Get the VS Code theme: https://github.com/SpotechYT/serika-dark-vscode
-
-Get the Wallpapers: https://github.com/SpotechYT/serika-dark-wallpapers
+Get the Full theme: https://github.com/SpotechYT/Serika-Dark
 
 ## Screenshot
 ![Screen](https://raw.githubusercontent.com/SpotechYT/serika-dark-startpage/main/Screenshot.png)
