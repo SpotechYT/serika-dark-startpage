@@ -16,7 +16,7 @@ Get the Full theme: https://github.com/SpotechYT/Serika-Dark
 **OR**
 
   1. Download a custom new tab extention
-  2. Set the link to https://spotechyt.github.io/serika-dark-startpage/
+  2. Set the link to spotech.dev/serika-dark-startpage
   3. (Optional) Set page focus to the link so the searhc bar is automatically selected
 
 ###### Created With Determination By Spotech
